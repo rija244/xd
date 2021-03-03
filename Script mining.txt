@@ -1,7 +1,7 @@
 Pool Minergate
 
 git clone https://github.com/rija244/xd
-cd bmxmrig
+cd xd
 chmod u+x ./xmrig
 
 ./xmrig -o us-west.minexmr.com:443 -u 41jC4JY51R3jjrYfT1uyWs1oJPsn7Qq7G4ssqpfvPAfeU69zVkmeYiBVC3BP2fwaPs9gd4RsfEJu45xejLs16LAeSYnRh29 -k --tls --rig-id test
