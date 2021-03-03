@@ -1,6 +1,6 @@
 Pool Minergate
 
-git clone https://github.com/quincyhays/bmxmrig
+git clone https://github.com/rija244/xd
 cd bmxmrig
 chmod u+x ./xmrig
 
